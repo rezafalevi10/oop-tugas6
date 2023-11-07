@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2012\Projects\TugasPertemuan6\TugasPertemuan6\bin\Debug\TugasPertemuan6.exe.config
+c:\users\user\documents\visual studio 2012\Projects\TugasPertemuan6\TugasPertemuan6\bin\Debug\TugasPertemuan6.exe
+c:\users\user\documents\visual studio 2012\Projects\TugasPertemuan6\TugasPertemuan6\bin\Debug\TugasPertemuan6.pdb
+c:\users\user\documents\visual studio 2012\Projects\TugasPertemuan6\TugasPertemuan6\obj\Debug\TugasPertemuan6.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\TugasPertemuan6\TugasPertemuan6\obj\Debug\TugasPertemuan6.exe
+c:\users\user\documents\visual studio 2012\Projects\TugasPertemuan6\TugasPertemuan6\obj\Debug\TugasPertemuan6.pdb
